@@ -1,0 +1,36 @@
+button{
+    border: none;
+    background-color: aliceblue;
+    color: #000;
+    font-size: 30px;
+    padding: 5px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 50px auto;
+   
+}
+
+
+
+
+button:hover{
+   filter: invert(1);
+   border-radius: 5px;
+}
+/*
+INVERTER COR
+animações
+
+
+FICA LARGO
+button:hover{
+    padding:5px 100px;
+}
+
+
+AUMENTA A ESCALA DELE
+button:hover{
+    scale: 1.1;
+}
+    */

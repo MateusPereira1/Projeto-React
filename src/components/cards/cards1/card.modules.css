@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height:400px;
+    margin: 0 30px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(16, 16, 16);
+    color: aliceblue;
+    flex-direction: column;
+    border-radius: 7px;
+    
+
+}
+.card img{
+    aspect-ratio: 1/1;
+    width: 50%;
+    object-fit: contain;
+
+}
+
+.card h1{
+    width: 80%;
+    font-size: 25px;
+}
+

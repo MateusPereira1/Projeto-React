@@ -3,7 +3,6 @@ import Banner2 from './components/Banner/Banner2/Banner2';
 import Card from './components/cards/cards1/card';
 import Cards1 from './components/cards/cards1/cards1';
 import './App.css';
-import Contagem from './Contagem';
 
 
 function App() {
